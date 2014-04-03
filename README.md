@@ -23,6 +23,13 @@ By default, if no options are supplied, **filterizer** will use the first table 
 
 A working demo can be found at [filterizer - CodePen]
 
+###TODO
+
+- Add support for dropdowns and other inputs
+- Add suport for date filters
+- Bugfixes
+- Code improvements
+
 ###License
 
 MIT
